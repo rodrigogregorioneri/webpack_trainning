@@ -1,0 +1,25 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Treino de webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigogregorioneri/webpack_trainning.git"
+  },
+  "keywords": [
+    "WebPack",
+    "NodeJS",
+    "Javascript",
+    "Ecma"
+  ],
+  "author": "Rodrigo Gregorio Neri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rodrigogregorioneri/webpack_trainning/issues"
+  },
+  "homepage": "https://github.com/rodrigogregorioneri/webpack_trainning#readme"
+}
